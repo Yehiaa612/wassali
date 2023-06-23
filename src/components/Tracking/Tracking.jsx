@@ -30,7 +30,7 @@ const { requestId } = useParams();
    
     <>
    <div className="container p-5 mb-1">
-  <div className="card mb-3">
+  <div>
 
     <div className="d-flex flex-wrap flex-sm-nowrap justify-content-between py-3 px-2 bg-secondary">
     
